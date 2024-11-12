@@ -10,5 +10,3 @@
 Threat.xml
 KTM_BlizzardUI.lua
 snap.lua
-
-## X-Turtle-Shell-Version: 1697167034
